@@ -1,36 +1,37 @@
-# My Markdown File
+# Title
 
-## Introduction
+## Subtitle
 
-This is a sample Markdown file. Markdown is a lightweight markup language that you can use to format plain text.
+### Sub-subtitle
 
-## Formatting
+Plain text here.
 
-You can format text in Markdown using simple syntax. For example:
-- *Italic* text is created using asterisks or underscores (\*Italic\* or \_Italic\_).
-- **Bold** text is created using double asterisks or double underscores (\*\*Bold\*\* or \_\_Bold\_\_).
+**Bold text**
 
-## Lists
+*Italic text*
 
-You can create ordered and unordered lists:
-- Unordered list item 1
-- Unordered list item 2
-- Unordered list item 3
+### Lists
 
-1. Ordered list item 1
-2. Ordered list item 2
-3. Ordered list item 3
+#### Unordered list
+- Item 1
+- Item 2
+  - Sub-item 2.1
+  - Sub-item 2.2
+- Item 3
 
-## Links and Images
+#### Ordered list
+1. First item
+2. Second item
+3. Third item
 
-You can create [links](https://www.example.com) and embed images like this:
+### Links
 
-![Image Alt Text](https://www.example.com/image.jpg)
+[Link text](https://example.com)
 
-## Code
+### Images
 
-You can display inline code like `print("Hello, world!")` or code blocks:
+![Alt text](image-url.jpg)
 
-```python
-def greet(name):
-    print("Hello, " + name + "!")
+### Code
+
+Inline `code` can be formatted with backticks.
