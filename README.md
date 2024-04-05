@@ -1,4 +1,3 @@
-
 ---
 title: Example Markdown File
 author: John Doe
