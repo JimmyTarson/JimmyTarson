@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>MY NAME IS MYPRO</h2>
+  <h1>MY NAME IS MYPRO</h1>
 </div>
 <h3 align="center">Plz don't call me anything else</h3>
 <div align="center">
