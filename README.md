@@ -1,8 +1,6 @@
 <div align="center">
-  <h1>Hi there 👋 im [Mypro](https://github.com/zek-c)</h1>
-</div>
-<h3 align="center">Plz don't call me anything else</h3>
-<div align="center">
+  <h1>Hi there 👋 im Mypro.</h1>
+  <h3 align="center">Plz don't call me anything else</h3>
   <sup>I don't know how to change it</sup>
 </div>
 
