@@ -3,6 +3,10 @@
   <sup>You can call me jimmy if you want but thats not my real name. Its my alias. I prefer Mypro though.</sup>
 </div>
 
+<div>
+  - [![My Skills](https://github.com/JimmyTarson12/JimmyTarson12/blob/main/README.md#my-skills)
+</div>
+
 ## My skills
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
