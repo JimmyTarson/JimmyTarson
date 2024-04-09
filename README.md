@@ -4,11 +4,16 @@
 </div>
 
 <div>
-  
+
+ - [About Me](https://github.com/JimmyTarson12#about-me)
  - [My Skills](https://github.com/JimmyTarson12#my-skills)
  - [My Stats](https://github.com/JimmyTarson12#my-stats)
 
 </div>
+
+## About Me
+
+idk yet
 
 ## My skills
 
