@@ -6,11 +6,14 @@
 <div>
   
  - [My Skills](https://github.com/JimmyTarson12#my-skills)
+ - [My Skills](https://github.com/JimmyTarson12#my-stats)
 
 </div>
 
 ## My skills
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+
+## My Stats
 
 [![Mypro's GitHub stats](https://github-readme-stats.vercel.app/api?username=JimmyTarson12&theme=toykonight)](https://github.com/JimmyTarson12/github-readme-stats)
