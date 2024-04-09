@@ -5,7 +5,7 @@
 
 <div>
   
- - [My Skills](https://github.com/zek-c?tab=repositories).
+ - [My Skills](https://github.com/JimmyTarson12#my-skills)
 
 </div>
 
