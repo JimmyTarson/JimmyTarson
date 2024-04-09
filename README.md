@@ -4,7 +4,9 @@
 </div>
 
 <div>
-  - [![My Skills](https://github.com/JimmyTarson12/JimmyTarson12/blob/main/README.md#my-skills)
+  
+ - [My Skills](https://github.com/zek-c?tab=repositories).
+
 </div>
 
 ## My skills
