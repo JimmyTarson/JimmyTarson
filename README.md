@@ -6,7 +6,7 @@
 <div>
   
  - [My Skills](https://github.com/JimmyTarson12#my-skills)
- - [My Skills](https://github.com/JimmyTarson12#my-stats)
+ - [My Stats](https://github.com/JimmyTarson12#my-stats)
 
 </div>
 
