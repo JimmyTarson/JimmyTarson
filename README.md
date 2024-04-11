@@ -18,6 +18,7 @@ So yeah imagine a "my" then because I am definitly a pro make it mypro.
 <div align="center">
 
 ![Static Badge](https://img.shields.io/badge/kinda%20cool_%F0%9F%98%8F-gray?style=for-the-badge)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 </div>
 
