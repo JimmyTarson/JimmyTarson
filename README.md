@@ -1,5 +1,5 @@
 # Hi there!👋
-Im Mypro (He - him) - Im a fullstack devolper and highschool student. I am intrested in things like development, robotics, and managment. I usually spend my free time codeing and makeing random stuff.
+Im Mypro (He - him) - Im a devolper and highschool student. I am intrested in things like development, robotics, and managment. I usually spend my free time codeing and makeing random stuff.
 
 [![My Skills](https://skillicons.dev/icons?i=codepen,docker,py,js,raspberrypi,css,vscode,html)](https://skillicons.dev)
 
