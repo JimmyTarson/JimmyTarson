@@ -8,4 +8,4 @@ Im Mypro (He - him) - Im a devolper and highschool student. I am intrested in th
 ![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/1186335265212604567)
 
 [![Mypro's GitHub stats](https://github-readme-stats.vercel.app/api?username=JimmyTarson12&theme=blueberry&line_height=20&hide_border=true)](https://github.com/JimmyTarson12/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JimmyTarson12&theme=blueberry&hide_border=true&layout=compact)](https://github.com/JimmyTarson12/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JimmyTarson12&theme=blueberry&hide_border=true&layout=compact&count_private=true)](https://github.com/JimmyTarson12/)
